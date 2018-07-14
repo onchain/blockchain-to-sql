@@ -1,0 +1,13 @@
+name: blockchain-to-sql
+version: 0.1.0
+
+authors:
+  - John Doe <johndoe@example.com>
+
+targets:
+  blockchain-to-sql:
+    main: src/blockchain-to-sql.cr
+
+crystal: 0.24.2
+
+license: MIT
